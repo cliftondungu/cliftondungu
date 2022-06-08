@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on any Express JS project
 - 📫 Reach me @ cliftondungu@gmail.com
+- personal project : https://infobites.000webhostapp.com/
 
 <!---
 cliftondungu/cliftondungu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
